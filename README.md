@@ -1,3 +1,8 @@
-# typescript-df2w6c
+# DList - Server List (Disboard clone)
+Best server list (with multicoloured rockets), like disboard.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-df2w6c)
+![Server List](https://i.ibb.co/0fprP6q/v0-0-1a.png)
+
+## Redirect URIs
+- `https://dlist.xyz/v1/api/auth`
+- `https://dlist.xyz/v1/dashboard`
